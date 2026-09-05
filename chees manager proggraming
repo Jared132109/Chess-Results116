@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KCC Champion Tournament</title>
+</head>
+<body>
+  <h1>Welcome to KCC Champion</h1>
+  <p>This site is managed by Amaan using Coronate Chess Manager data.</p>
+  
+  <h2>Players</h2>
+  <ul>
+    <li>Ayush Paul (Rating: 1389)</li>
+    <li>Kunal Das (Rating: 1787)</li>
+    <li>Harjeet Bhaisya (Rating: 1639)</li>
+    <!-- Add more players here -->
+  </ul>
+  
+  <h2>Tournament Info</h2>
+  <p>Date: September 5, 2026</p>
+  <p>Tie-breaks: Median, Solkoff, Cumulative</p>
+</body>
+</html>
